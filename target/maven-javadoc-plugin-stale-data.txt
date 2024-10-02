@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'Cp1252'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Aneel/Documents/Files/School/Programs/Java/CMPT276S24_group7/escapethedungeon/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Aneel/Documents/Files/School/Programs/Java/CMPT276S24_group7/escapethedungeon/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'escapethedungeon 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'escapethedungeon 1.0-SNAPSHOT API'
+grid
+Main
+moving
+object
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\src\main\java = 1708763985410
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\allclasses-index.html = 1712202962071
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\allpackages-index.html = 1712202962073
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\constant-values.html = 1712202961980
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\element-list = 1712202961956
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\help-doc.html = 1712202962102
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\index-all.html = 1712202962096
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\index.html = 1712202962059
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\jquery-ui.overrides.css = 1712202962113
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\member-search-index.js = 1712202962077
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\module-search-index.js = 1712202962074
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\overview-summary.html = 1712202962098
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\overview-tree.html = 1712202962056
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\package-search-index.js = 1712202962075
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\script.js = 1712202962105
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\search.js = 1712202962106
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\serialized-form.html = 1712202961989
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\stylesheet.css = 1712202962103
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\tag-search-index.js = 1712202962078
+C:\Users\Aneel\Documents\Files\School\Programs\Java\CMPT276S24_group7\escapethedungeon\target\site\apidocs\type-search-index.js = 1712202962076

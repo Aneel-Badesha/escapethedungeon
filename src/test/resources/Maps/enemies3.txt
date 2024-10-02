@@ -1,0 +1,7 @@
+KnightOrc 11 1
+KnightOrc 19 1
+KnightOrc 21 1
+KnightOrc 10 18
+DOrc 12 18
+DOrc 18 18
+DOrc 20 18
